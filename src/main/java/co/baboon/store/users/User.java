@@ -1,4 +1,4 @@
-package ru.baboonandco.store.users;
+package co.baboon.store.users;
 
 public record User(
         Long id,

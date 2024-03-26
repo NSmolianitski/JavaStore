@@ -1,4 +1,4 @@
-package ru.baboonandco.store;
+package co.baboon.store;
 
 import org.springframework.context.annotation.Configuration;
 

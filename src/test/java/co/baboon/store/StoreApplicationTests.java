@@ -1,4 +1,4 @@
-package ru.baboonandco.store;
+package co.baboon.store;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
