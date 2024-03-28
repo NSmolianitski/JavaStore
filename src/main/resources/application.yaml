@@ -1,1 +1,9 @@
-spring.application.name=Store
+spring:
+  application:
+    name: Store
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/StoreDB
+    username: admin
+    password: password
+    driver-class-name: org.postgresql.Driver
