@@ -7,3 +7,14 @@ spring:
     username: admin
     password: password
     driver-class-name: org.postgresql.Driver
+  
+  artemis:
+    broker-url: tcp://artemis.store.ru:61617
+    user: admin
+    password: password
+
+store:
+  auth:
+    issuer: store
+    jwt-secret: kRg8iLaoAop2_Zrzxx0EgPvcGIbHBQPENXSm6wr-DJU
+    jwt-lifetime: PT1000H

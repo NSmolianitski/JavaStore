@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "store.auth.jwt-secret",
+      "type": "java.lang.String",
+      "description": "JWT secret."
+    },
+    {
+      "name": "store.auth.jwt-lifetime",
+      "type": "java.lang.String",
+      "description": "JWT lifetime."
+    }
+  ]
+}
